@@ -1,10 +1,10 @@
-# Book Search Engine
+# Redux Store Shop-Shop
 
 
 
 ## Description
 
-
+A reconfigured version of the shop-shop e-commerce platform using Redux.
 
 
 ## Table of Contents
@@ -17,7 +17,9 @@
 
  ## User Story
  ***
-
+>AS a senior engineer working on an e-commerce platform  
+I WANT my platform to use Redux to manage global state instead of the Context API  
+SO THAT my website's state management is taken out of the React ecosystem
 
 ## Deployed App
 ***
@@ -26,7 +28,6 @@
 ## Installation and Usage
 ***
 - Clone the GitHub Repository
-- Log npm init in your terminal 
 - Log NPM Install to install packages
 - Log NPM run start in your terminal
 - Deploy to Heroku for Live Usage
@@ -38,6 +39,7 @@
 - React
 - Node
 - GraphQL
+- Redux
 
 ## License
 ***
@@ -48,4 +50,4 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)   
 [GITHUB PROFILE](https://github.com/cocobeware83)  
 [EMAIL ME](mailto:corycneel@gmail.com)  
-[Professional Profile](https://cocobeware83.github.io/coryneel/)
+[Professional Profile](https://react-portfolio-coryneel.herokuapp.com/)

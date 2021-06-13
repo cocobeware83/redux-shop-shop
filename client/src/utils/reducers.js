@@ -8,7 +8,7 @@ import {
     UPDATE_CART_QUANTITY,
     CLEAR_CART,
     TOGGLE_CART
-  } from './actions';
+  } from './action';
   
   const reducer = (state= {
       products: [],

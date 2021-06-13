@@ -12,7 +12,7 @@ import {
   UPDATE_CART_QUANTITY,
   ADD_TO_CART,
   UPDATE_PRODUCTS,
-} from '../utils/actions';
+} from '../utils/action';
 
 function Detail() {
   const state = useSelector(state => state)

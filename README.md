@@ -23,7 +23,7 @@ SO THAT my website's state management is taken out of the React ecosystem
 
 ## Deployed App
 ***
-[Deployed Via Heroku]()
+[Deployed Via Heroku](https://intense-escarpment-00657.herokuapp.com/)
 
 ## Installation and Usage
 ***

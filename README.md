@@ -1,8 +1,9 @@
 # Redux Store Shop-Shop
 
-
+![Screenshot (59)](https://user-images.githubusercontent.com/72768374/121934102-7d466880-cd0c-11eb-93f5-e4e3d0e74ef6.png)
 
 ## Description
+This project is not yet finished, check back later for a finalized version.
 
 A reconfigured version of the shop-shop e-commerce platform using Redux.
 
